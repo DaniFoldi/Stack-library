@@ -1,0 +1,13 @@
+Stack   KEYWORD1
+popFirst    KEYWORD2
+popLast KEYWORD2
+peekFirst KEYWORD2
+peekLast KEYWORD2
+push KEYWORD2
+isEmpty KEYWORD
+count KEYWORD2
+type popFirst();
+type peekFirst();
+void push(const type item);
+int count() const;
+bool isEmpty() const;
